@@ -1,2 +1,2 @@
-# par-ou-impar-
+# Aplicação Par Ou Impar
 Projeto Python.
